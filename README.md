@@ -1,132 +1,232 @@
 <div align="center">
 
-# Udaykumar Kotipalli
+<img src="assets/black-devil-grimoire-banner.svg" alt="Original black and crimson devil-grimoire banner with arcane seals, chains, and a sword-inspired emblem" width="100%" />
 
-### Data Annotator · AI Data & Content Evaluation · Python
+# UDAYKUMAR KOTIPALLI
 
-*I work at the point where raw data becomes reliable data.*
+### DATA ANNOTATION · AI DATA EVALUATION · DATA QUALITY
 
-<br>
+**“No shortcuts. No false claims. Just progress forged through practice.”**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kotipalli-udaykumarr)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freelancerr.udaykumar@gmail.com)
-![Location](https://img.shields.io/badge/Location-Hyderabad%2C_India-2F3437?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI_Data_Quality-2F3437?style=for-the-badge)
+[GitHub](https://github.com/Udaykumar-Kotipalli) ·
+[Repositories](https://github.com/Udaykumar-Kotipalli?tab=repositories) ·
+[LinkedIn](https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN) ·
+[Portfolio](REPLACE_WITH_YOUR_PORTFOLIO_URL)
 
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
 
-Computer Science Engineering graduate with hands-on freelance experience in **data annotation, data review, content evaluation, AI-output evaluation and quality checking**.
+`BLACK DEVIL GRIMOIRE` &nbsp; / &nbsp; `OPERATOR FILE 001` &nbsp; / &nbsp; `SYSTEM: ACTIVE`
 
-I currently work with **Multimango AI**, handling annotation, validation, evaluation and quality-focused workflows while adapting to project-specific guidelines.
+</div>
 
-This GitHub is my working portfolio, built around **accuracy, repeatable processes, data quality and practical automation**.
+## `01 — THE OPERATOR`
 
----
+<table>
+<tr>
+<td valign="top" width="62%">
 
-## 🎯 What I Do
+### A little about me
 
-| Area | What it involves |
-|------|------------------|
-| **Data Annotation** | Labeling and categorizing data against detailed, project-specific guidelines |
-| **Data Review & Validation** | Checking annotated and structured data for accuracy and consistency |
-| **AI Output Evaluation** | Scoring AI-generated responses against defined criteria |
-| **Quality Assurance** | Spotting inconsistencies, edge cases and recurring error patterns |
-| **Practical Automation** | Writing small Python utilities for repetitive data tasks |
+I'm a Computer Science Engineering graduate building my professional path around **data annotation, AI data evaluation, data quality, and analytical problem-solving**.
 
----
+I care about following task guidelines carefully, documenting decisions clearly, and producing work that can be reviewed and improved.
 
-## 🚀 Featured Projects
+- **Current direction:** Data Annotation and AI Data Evaluation
+- **Based in:** Hyderabad, India
+- **Approach:** Detail-oriented, evidence-led, quality-focused
+- **Goal:** Build practical portfolio projects with clear methods and reproducible results
 
-Independent portfolio projects built to demonstrate practical skills. They are **not client work**.
+</td>
+<td valign="top" width="38%">
 
-| Project | What it shows | Stack |
-|---------|---------------|-------|
-| [**Data Quality Inspector**](https://github.com/Udaykumar-Kotipalli/data-quality-inspector) | Detects missing values, duplicates and invalid formats, with quality reporting | `Python` `Pandas` |
-| [**Annotation QA Toolkit**](https://github.com/Udaykumar-Kotipalli/annotation-qa-toolkit) | Rule-based checks for annotation consistency | `Python` `CSV` |
-| [**AI Output Evaluation Lab**](https://github.com/Udaykumar-Kotipalli/ai-output-evaluation-lab) | Structured scoring and review workflow for AI outputs | `Python` `JSON` |
-| [**Retail Sales Analysis**](https://github.com/Udaykumar-Kotipalli/day-01-retail-sales-analysis) | Python-based analysis of retail sales data | `Python` |
-| [**Excel Sales Analysis**](https://github.com/Udaykumar-Kotipalli/day-02-excel-sales-analysis) | Data cleaning, KPI formulas, sales summaries and an interactive dashboard on synthetic retail data | `Excel` |
+### `STATUS WINDOW`
 
----
+| ATTRIBUTE | CURRENT STATE |
+|:--|:--|
+| Class | `Data / AI Evaluation` |
+| Mode | `Learn · Build · Verify` |
+| Focus | `Quality & consistency` |
+| Next quest | `Publish real projects` |
 
-## 🛠️ Skills
+<sub>Theme labels are decorative, not professional rankings.</sub>
 
-**Data & AI**
+</td>
+</tr>
+</table>
 
-![Data Annotation](https://img.shields.io/badge/Data_Annotation-1F6FEB?style=flat-square)
-![Data Labeling](https://img.shields.io/badge/Data_Labeling-1F6FEB?style=flat-square)
-![Data Validation](https://img.shields.io/badge/Data_Validation-1F6FEB?style=flat-square)
-![Data Quality Checking](https://img.shields.io/badge/Data_Quality_Checking-1F6FEB?style=flat-square)
-![Content Evaluation](https://img.shields.io/badge/Content_Evaluation-1F6FEB?style=flat-square)
-![AI Output Evaluation](https://img.shields.io/badge/AI_Output_Evaluation-1F6FEB?style=flat-square)
-![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-1F6FEB?style=flat-square)
+## `02 — THE GRIMOIRE` / SKILL ARSENAL
 
-**Technical**
+*Only list skills you can discuss honestly and demonstrate when asked.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![CSV](https://img.shields.io/badge/CSV-5A5A5A?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Professional**
+#### `SPELL TYPE: DATA QUALITY`
 
-Accuracy · Consistency · Attention to Detail · Instruction Following · Time Management · Remote Work · Independent Execution
+- Data annotation
+- AI output evaluation
+- Quality review and guideline adherence
+- Structured documentation
 
----
+</td>
+<td width="50%" valign="top">
 
-## 💼 Experience
+#### `SPELL TYPE: TECHNICAL`
 
-### Freelance Data Annotator, Multimango AI
-*2026 – Present · Remote*
+- Python — practice / project use
+- Git and GitHub — profile and repository workflows
+- CSV and structured data workflows — list only if used in your work
 
-- Annotate and categorize data using project-specific guidelines
-- Review and validate annotated data for accuracy and consistency
-- Evaluate content and AI-generated outputs against defined criteria
-- Identify errors, inconsistencies and quality issues
-- Adapt to different workflows and evaluation requirements
-- Support AI data workflows through accurate annotation and evaluation
+</td>
+</tr>
+</table>
 
----
+> **Grimoire rule:** Remove anything you cannot currently explain or demonstrate. Add tools only after you've used them.
 
-## 🎓 Education
+## `03 — ACTIVE MISSIONS`
 
-**Bachelor of Technology, Computer Science Engineering**
-GIET Engineering College, Rajahmundry · JNTUK · 2025
+The following are **portfolio project ideas**, not claims of completed work. Change their status and links only when the repositories are real.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🧭 How I Work
+### Mission 01 / Data Quality Inspector
 
-```text
-Data → Understand the rules → Check the edge cases
-     → Validate → Document the result → Improve the process
-```
+Check a dataset for missing values, duplicate rows, inconsistent formats, and simple validation errors.
 
-I care less about writing the most code and more about building processes that produce **reliable results**.
+`Suggested stack: Python · pandas`
 
----
+**Status:** `PLANNED`
 
-## 🌐 Languages
+[Add repository](https://github.com/Udaykumar-Kotipalli/REPLACE_WITH_REPO)
 
-Telugu · English · Hindi
+</td>
+<td width="50%" valign="top">
 
----
+### Mission 02 / Annotation QA Checklist
 
-## 📫 Let's Connect
+Create a repeatable checklist for annotation review, common error categories, and consistent quality decisions.
 
-- **LinkedIn:** [linkedin.com/in/kotipalli-udaykumarr](https://www.linkedin.com/in/kotipalli-udaykumarr)
-- **Email:** [freelancerr.udaykumar@gmail.com](mailto:freelancerr.udaykumar@gmail.com)
+`Suggested stack: Markdown · CSV`
+
+**Status:** `PLANNED`
+
+[Add repository](https://github.com/Udaykumar-Kotipalli/REPLACE_WITH_REPO)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Mission 03 / AI Evaluation Rubric
+
+Document a clear rubric for checking AI responses for relevance, instruction following, factual support, and clarity.
+
+`Suggested stack: Markdown · Python optional`
+
+**Status:** `PLANNED`
+
+[Add repository](https://github.com/Udaykumar-Kotipalli/REPLACE_WITH_REPO)
+
+</td>
+<td width="50%" valign="top">
+
+### Mission 04 / Data Portfolio Series
+
+Publish small practice projects with setup instructions, sample data, methods, findings, and limitations.
+
+**Status:** `UPDATE TO CURRENT STATUS`
+
+[Browse repositories](https://github.com/Udaykumar-Kotipalli?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## `04 — FORGED ARTIFACTS` / FEATURED PROJECTS
+
+> Replace these cards with **real repositories**. Do not list a proposed idea here as a completed project.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Artifact α — `[PROJECT NAME]`
+
+**Problem:** What real problem does it address?
+
+**Build:** What did you implement, and how can someone verify it?
+
+**Tools:** `[ACTUAL TECHNOLOGIES]`
+
+[Source code](https://github.com/Udaykumar-Kotipalli/REPLACE_WITH_REPO)
+
+</td>
+<td valign="top" width="50%">
+
+### Artifact β — `[PROJECT NAME]`
+
+**Problem:** Briefly describe the task or use case.
+
+**Build:** State the real functionality and any meaningful limitations.
+
+**Tools:** `[ACTUAL TECHNOLOGIES]`
+
+[Source code](https://github.com/Udaykumar-Kotipalli/REPLACE_WITH_REPO)
+
+</td>
+</tr>
+</table>
+
+## `05 — DEVIL'S SYSTEM` / GITHUB ACTIVITY
 
 <div align="center">
 
-**Build small. Validate hard. Improve continuously.**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Udaykumar-Kotipalli&show_icons=true&hide_border=true&bg_color=080808&title_color=E52535&text_color=F4F0F0&icon_color=E52535" alt="GitHub account statistics card" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaykumar-Kotipalli&layout=compact&hide_border=true&bg_color=080808&title_color=E52535&text_color=F4F0F0" alt="Programming languages detected in public repositories" />
+
+<img src="https://streak-stats.demolab.com?user=Udaykumar-Kotipalli&hide_border=true&background=080808&ring=E52535&fire=E52535&currStreakLabel=E52535&sideLabels=F4F0F0&dates=999999" alt="GitHub contribution streak card" />
+
+</div>
+
+<sub>These third-party cards may be rate-limited or unavailable. Language breakdowns reflect public repository contents, not verified proficiency. Remove this section if the cards do not load reliably.</sub>
+
+## `06 — POWER PROGRESSION` / ROADMAP
+
+| Milestone | Status | Evidence |
+|:--|:--|:--|
+| B.Tech in Computer Science Engineering | `COMPLETED` | Education |
+| Data annotation / AI evaluation direction | `ACTIVE` | Describe only non-confidential work you are allowed to share |
+| Data quality inspection project | `PLANNED` | Publish code, sample data, and tests |
+| Reproducible analysis project | `PLANNED` | Add setup steps, method, and limitations |
+| Consistent project documentation | `ONGOING` | Keep repository READMEs accurate and maintainable |
+
+## `07 — TRANSMISSION` / CONTACT
+
+<div align="center">
+
+**Open to connecting around data quality, annotation, evaluation, and practical portfolio work.**
+
+[GitHub profile](https://github.com/Udaykumar-Kotipalli) ·
+[GitHub repositories](https://github.com/Udaykumar-Kotipalli?tab=repositories) ·
+[LinkedIn](https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/devil-grimoire-divider.svg" alt="" width="280" />
+
+### “A five-leaf grimoire means nothing without the will to keep fighting.”
+
+<sub>BLACK DEVIL GRIMOIRE // LEARN WITH PURPOSE · VERIFY THE DETAILS · BUILD THE PROOF</sub>
 
 </div>
