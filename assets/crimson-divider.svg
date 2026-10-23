@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="38" viewBox="0 0 560 38" role="img" aria-labelledby="title">
+<title id="title">Crimson anti-magic divider</title>
+<defs><linearGradient id="r"><stop stop-color="#e52535" stop-opacity="0"/><stop offset=".5" stop-color="#e52535"/><stop offset="1" stop-color="#e52535" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 19H220l12-7 12 7h72l12-7 12 7h220" fill="none" stroke="url(#r)" stroke-width="1.5"/>
+<path d="M280 3l5 10 10 6-10 6-5 10-5-10-10-6 10-6z" fill="#090909" stroke="#e52535" stroke-width="1.5"/>
+<circle cx="280" cy="19" r="2.5" fill="#e52535"/>
+</svg>
