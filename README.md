@@ -10,8 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kotipalli-udaykumarr)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freelancerr.udaykumar@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Hyderabad,_India-2F3437?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Focus](https://img.shields.io/badge/Focus-AI_Data_Quality-2F3437?style=for-the-badge&logo=databricks&logoColor=white)](#)
+![Location](https://img.shields.io/badge/Location-Hyderabad%2C_India-2F3437?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI_Data_Quality-2F3437?style=for-the-badge)
 
 </div>
 
@@ -111,17 +111,6 @@ Data → Understand the rules → Check the edge cases
 ```
 
 I care less about writing the most code and more about building processes that produce **reliable results**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Udaykumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udaykumar-Kotipalli&show_icons=true&hide_border=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udaykumar-Kotipalli&layout=compact&hide_border=true&theme=default)
-
-</div>
 
 ---
 
